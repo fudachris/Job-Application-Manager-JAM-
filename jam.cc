@@ -336,7 +336,7 @@ dispMenu (void)
 {
     std::cout << "Menu: " << std::endl;
     std::cout << "1 - Print table " << std::endl;
-    std::cout << "2 - Open related documets by id " << std::endl;
+    std::cout << "2 - Open related documents by id " << std::endl;
     std::cout << "3 - Update information by id " << std::endl;
     std::cout << "4 - Inset data into table " << std::endl;
     std::cout << "5 - Get transcript " << std::endl;
